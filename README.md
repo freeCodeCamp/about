@@ -2,7 +2,7 @@
 
 This is a simple static website that we plan to expand once we release our open REST API.
 
-You can view our about page live here: https://www.freecodecamp.com/about
+You can view our about page live here: [freecodecamp](https://about.freecodecamp.org/)
 
 The above link will take you to our **About** page which would help you with some of the _Frequently Asked Questions_.
 
